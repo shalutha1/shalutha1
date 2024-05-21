@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Shalutha Perera</h1>
 <h3 align="center">Data Science & BI Analytics Enthusiast</h3>
